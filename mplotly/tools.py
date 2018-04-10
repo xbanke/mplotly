@@ -4,7 +4,6 @@
 
 @version: 0.1
 @author:  quantpy
-@email:   quantpy@gmail.com
 @file:    tools.py
 @time:    2018/3/25 8:25
 """
