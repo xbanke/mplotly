@@ -1,0 +1,10 @@
+setup.py
+mplotly/__init__.py
+mplotly/mplotly.py
+mplotly/tools.py
+mplotly.egg-info/PKG-INFO
+mplotly.egg-info/SOURCES.txt
+mplotly.egg-info/dependency_links.txt
+mplotly.egg-info/not-zip-safe
+mplotly.egg-info/requires.txt
+mplotly.egg-info/top_level.txt
