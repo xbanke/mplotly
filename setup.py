@@ -16,7 +16,7 @@ except ImportError:
 
 setup(
     name='mplotly',
-    version='0.1',
+    version='0.1.1',
     description='Plot like pandas.DataFrame.plot with plotly',
     url='https://github.com/xbanke/mplotly',
     author='quantpy',
